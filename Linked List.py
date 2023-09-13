@@ -27,8 +27,6 @@ class Linked_List:
         self.length+=1
         return True
     
-    def 
-    
     def print_list(self):
         temp=self.head
         while temp:
